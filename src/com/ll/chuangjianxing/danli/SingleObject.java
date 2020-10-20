@@ -4,6 +4,7 @@ package com.ll.chuangjianxing.danli;
  * @author liulan
  * @version 1.0
  * @date 2020/9/9 0009 下午 16:36
+ * SingleObject 类有它的私有构造函数和本身的一个静态实例
  */
 public class SingleObject {
     //创建 SingleObject 的一个对象
